@@ -1,0 +1,14 @@
+C:\Users\danrl\OneDrive\C#\GerenciamentoEstoqueSimples\GerenciamentoEstoqueSimples\bin\Debug\net6.0\GerenciamentoEstoqueSimples.exe
+C:\Users\danrl\OneDrive\C#\GerenciamentoEstoqueSimples\GerenciamentoEstoqueSimples\bin\Debug\net6.0\GerenciamentoEstoqueSimples.deps.json
+C:\Users\danrl\OneDrive\C#\GerenciamentoEstoqueSimples\GerenciamentoEstoqueSimples\bin\Debug\net6.0\GerenciamentoEstoqueSimples.runtimeconfig.json
+C:\Users\danrl\OneDrive\C#\GerenciamentoEstoqueSimples\GerenciamentoEstoqueSimples\bin\Debug\net6.0\GerenciamentoEstoqueSimples.dll
+C:\Users\danrl\OneDrive\C#\GerenciamentoEstoqueSimples\GerenciamentoEstoqueSimples\bin\Debug\net6.0\GerenciamentoEstoqueSimples.pdb
+C:\Users\danrl\OneDrive\C#\GerenciamentoEstoqueSimples\GerenciamentoEstoqueSimples\obj\Debug\net6.0\GerenciamentoEstoqueSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danrl\OneDrive\C#\GerenciamentoEstoqueSimples\GerenciamentoEstoqueSimples\obj\Debug\net6.0\GerenciamentoEstoqueSimples.AssemblyInfoInputs.cache
+C:\Users\danrl\OneDrive\C#\GerenciamentoEstoqueSimples\GerenciamentoEstoqueSimples\obj\Debug\net6.0\GerenciamentoEstoqueSimples.AssemblyInfo.cs
+C:\Users\danrl\OneDrive\C#\GerenciamentoEstoqueSimples\GerenciamentoEstoqueSimples\obj\Debug\net6.0\GerenciamentoEstoqueSimples.csproj.CoreCompileInputs.cache
+C:\Users\danrl\OneDrive\C#\GerenciamentoEstoqueSimples\GerenciamentoEstoqueSimples\obj\Debug\net6.0\GerenciamentoEstoqueSimples.dll
+C:\Users\danrl\OneDrive\C#\GerenciamentoEstoqueSimples\GerenciamentoEstoqueSimples\obj\Debug\net6.0\refint\GerenciamentoEstoqueSimples.dll
+C:\Users\danrl\OneDrive\C#\GerenciamentoEstoqueSimples\GerenciamentoEstoqueSimples\obj\Debug\net6.0\GerenciamentoEstoqueSimples.pdb
+C:\Users\danrl\OneDrive\C#\GerenciamentoEstoqueSimples\GerenciamentoEstoqueSimples\obj\Debug\net6.0\GerenciamentoEstoqueSimples.genruntimeconfig.cache
+C:\Users\danrl\OneDrive\C#\GerenciamentoEstoqueSimples\GerenciamentoEstoqueSimples\obj\Debug\net6.0\ref\GerenciamentoEstoqueSimples.dll
